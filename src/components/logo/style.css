@@ -1,0 +1,10 @@
+.Header_logo{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.header_logo_img{
+    width: 250px;
+    background-color: brown;
+}
